@@ -5,6 +5,4 @@ Game.java is only uploaded separately as I wanted the repository to be marked as
 
 Turns out amongst other things, I can't work Github and don't need to upload a ZIP. This is what a year of working with Train Simulator Classic gets you
 
-Nevermind 2, can't upload more than 100 files apparently, so the ZIP will have to do. Please download that to view the code
-
-Nevermind 3, this is a mess now, but you should be able to view all code under the src folder
+This repository is a mess now, but code should be viewable under the src folder. This can be run, you need to download the ZIP and run the game file in the out folder.
