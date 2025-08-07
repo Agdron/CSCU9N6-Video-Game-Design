@@ -3,4 +3,4 @@ Video game design module, one of the better modules
 
 Game.java is only uploaded separately as I wanted the repository to be marked as Java, it WILL NOT FUNCTION ON IT'S OWN
 
-To view code you will need to download the ZIP, there is no point of uploading the raw code here when most of it won't make sense without the spritesheets and tilemaps
+Turns out amongst other things, I can't work Github and don't need to upload a ZIP. This is what a year of working with Train Simulator Classic gets you
