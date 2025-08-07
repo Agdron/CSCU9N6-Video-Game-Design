@@ -1,0 +1,45 @@
+134 15 32 32
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#a=grassTop1.png
+#b=grassTopMain.png
+#c=grassTop3.png
+#d=darkness.png
+#e=grassSide1.png
+#f=grassSide2.png
+#g=grassTopAlone.png
+#h=grassSideSingle.png
+#i=grassConnectionSingle.png
+#j=grassConnect1.png
+#k=grassConnect2.png
+#l=Tree.png
+#m=grassBottom1.png
+#n=grassBottom2.png
+#o=grassBottom3.png
+#p=grassBottomAlone.png
+#q=nicheCorner.png
+#r=nicheCornerOP.png
+#£=2.png
+#$=3.png
+#~=1.png
+// The actual tile map is preceded by the #map line
+#map
+abbbbbc........................................................abbbbbbc........................................................abbbbbc
+edddddf.....................abbbbbbc...........................eddddddf........................................................edddddf
+edddddf.....................eddddddf.......abbbc...............eddddddf.....................................labbbbbbbbbbbc.....edddddf
+edddddf.....................eddddddf.......edddf...............eddddddjbbbbbbbbc.....abbc...........ac.......edddddddddddf.....edddddf
+edddddf.....................eddddddf.......mnnno........l......eddddddrnnnnnnnno.....mnno..........akjbbbbbbbkrnnnnnnnnnno.....edddddf
+edddddf....................~eddddddf...................ac......eddddddf.....................abbbbbcmnnnnnnnnnno................edddddf
+edddddf.....................mnnnnnno...................ejbbbc..eddddddf.....................edddddf............................edddddf
+edddddf...............l..........................abbbbbkddddf..mqddddro..............abbbbbbkdddddf................l.....abbc..edddddf
+edddddf...........$abbbbbc.......................mnnnnnqddddf...mnnnno........abbbc..mnnnnnnnnnnnno.....abbbbc...........eddfl.edddddf
+edddddjbbbc£abbbbbbkdddddf...................l.........eddddf.................edddf....l................eddddjbbbbbbbbbbbkddf..edddddf
+edddddddddjbkddddddddddddjbbbbbbbbc....................eddddf............abbbbkdddf...l................$edddddddddddddddddddjbbkdddddf
+edddddddddddddddddddddddddddddddddjbbbbbbbbbbbbbbbbbbbbkddddjbbbbbbbbbbbbkddddddddjbbbbbbbbbbbbbbbbbbbbbkddddddddddddddddddddddddddddf
+eddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddf
+eddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddf
+mnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnno
