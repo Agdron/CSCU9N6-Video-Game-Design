@@ -1,5 +1,5 @@
 # CSCU9N6-Video-Game-Design
-Video game design module, one of the better modules
+Video game design module, 20 Credit 3rd Year Module
 
 Game.java is only uploaded separately as I wanted the repository to be marked as Java, it WILL NOT FUNCTION ON IT'S OWN
 
